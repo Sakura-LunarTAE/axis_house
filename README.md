@@ -1,1 +1,2 @@
-**I have nothing for you to read**
+**phira_resource_maker-v1.0.0-alpha**
+Made in 
