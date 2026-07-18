@@ -1,6 +1,6 @@
 # Introduction
 ***bilibili***: [`@axis-hikari`](https://space.bilibili.com/3706981810440307?spm_id_from=333.1007.0.0)
-# Realises
+# Releases
 ## phira_resource_maker
 ### v1.0.0-alpha
 `2026/7/14`
